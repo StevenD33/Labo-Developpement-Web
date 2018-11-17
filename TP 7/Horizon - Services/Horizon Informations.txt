@@ -1,0 +1,44 @@
+Horizon
+
+Container : 1270px
+
+Les images sont en SVG
+
+Logo : 103 x 12
+Ipad 1 : 440 x 723
+Logo Our custumer : 192.5 x 61.25
+Pictos services : 40 x 40
+Les logos partenaires : 160 x 70
+Pictos réseaux sociaux : 16 x 16
+
+Background :
+	Blanc : #ffffff
+	Gris clair : #fafafa
+
+Font par defaut :
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 1.6;
+    background: #fff;
+    color: #696969;
+    
+Font Titre H2 :
+    line-height: 1.4;
+    font-family: Roboto;
+    font-weight: 300; 
+    font-size: 40px;
+
+Font Légende & Font rouge
+    font-size: 11px;
+    line-height: 1.4;
+    color: #F91B24;
+    font-family: Work Sans;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+
+
+
+
